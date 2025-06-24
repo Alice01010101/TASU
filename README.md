@@ -1,1 +1,1 @@
-# TASU
+# TASU for In-the-wild Audio Spatialization with Flexible Text-guided Localization
