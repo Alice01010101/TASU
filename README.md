@@ -9,5 +9,6 @@
    - FAIR-Play dataset
    - 360 Youtube-Binaural dataset
 2. TODO: Full SpatialTAS datasets release
+3. TODO: The evaluation code for spatial audio understanding
 
 
